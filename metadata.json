@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS CALL COPILOT",
+  "description": "Sistema de alta precisão para operadores da Atlas Academy: GPS conversacional que dita palavra por palavra o que falar durante a ligação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
